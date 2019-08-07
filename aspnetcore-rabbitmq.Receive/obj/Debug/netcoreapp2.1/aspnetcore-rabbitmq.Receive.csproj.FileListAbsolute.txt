@@ -1,0 +1,11 @@
+C:\git\aspnetcore-rabbitmq\aspnetcore-rabbitmq.Receive\bin\Debug\netcoreapp2.1\aspnetcore-rabbitmq.Receive.deps.json
+C:\git\aspnetcore-rabbitmq\aspnetcore-rabbitmq.Receive\bin\Debug\netcoreapp2.1\aspnetcore-rabbitmq.Receive.runtimeconfig.json
+C:\git\aspnetcore-rabbitmq\aspnetcore-rabbitmq.Receive\bin\Debug\netcoreapp2.1\aspnetcore-rabbitmq.Receive.runtimeconfig.dev.json
+C:\git\aspnetcore-rabbitmq\aspnetcore-rabbitmq.Receive\bin\Debug\netcoreapp2.1\aspnetcore-rabbitmq.Receive.dll
+C:\git\aspnetcore-rabbitmq\aspnetcore-rabbitmq.Receive\bin\Debug\netcoreapp2.1\aspnetcore-rabbitmq.Receive.pdb
+C:\git\aspnetcore-rabbitmq\aspnetcore-rabbitmq.Receive\obj\Debug\netcoreapp2.1\aspnetcore-rabbitmq.Receive.csproj.CoreCompileInputs.cache
+C:\git\aspnetcore-rabbitmq\aspnetcore-rabbitmq.Receive\obj\Debug\netcoreapp2.1\aspnetcore-rabbitmq.Receive.AssemblyInfoInputs.cache
+C:\git\aspnetcore-rabbitmq\aspnetcore-rabbitmq.Receive\obj\Debug\netcoreapp2.1\aspnetcore-rabbitmq.Receive.AssemblyInfo.cs
+C:\git\aspnetcore-rabbitmq\aspnetcore-rabbitmq.Receive\obj\Debug\netcoreapp2.1\aspnetcore-rabbitmq.Receive.dll
+C:\git\aspnetcore-rabbitmq\aspnetcore-rabbitmq.Receive\obj\Debug\netcoreapp2.1\aspnetcore-rabbitmq.Receive.pdb
+C:\git\aspnetcore-rabbitmq\aspnetcore-rabbitmq.Receive\obj\Debug\netcoreapp2.1\aspnetcore-rabbitmq.Receive.csprojAssemblyReference.cache
